@@ -1,0 +1,21 @@
+server:
+  port: 8085
+  
+spring:
+  rabbitmq:
+    host: localhost
+    #host: rabbitmq
+    port: 5672
+    virtual-host: /
+    username: guest
+    password: guest
+    
+logging:
+  file: /tmp/axur_analyzer.log
+  pattern:
+    console: "%d %-5level %logger : %msg%n"
+    file: "%d %-5level [%thread] %logger : %msg%n"
+  level:
+    root: INFO
+    com.axur.analyzer: DEBUG
+    org.springframework.web: INFO

@@ -1,7 +1,0 @@
-com/axur/analyzer/model/AxurAnalyzerInsertionMessage.class
-com/axur/analyzer/amqp/AxurAnalyzerPublisher.class
-com/axur/analyzer/amqp/AxurAnalyzerListener.class
-com/axur/analyzer/controller/AxurAnalyzerController.class
-com/axur/analyzer/model/AxurAnalyzerValidationMessage.class
-com/axur/analyzer/AxurAnalyzerApplication.class
-com/axur/analyzer/config/AxurAnalyzerConfig.class

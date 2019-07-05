@@ -1,7 +1,0 @@
-/Users/rsfmachado/Development/Axur/workspace/axur-analyzer-01/src/main/java/com/axur/analyzer/model/AxurAnalyzerInsertionMessage.java
-/Users/rsfmachado/Development/Axur/workspace/axur-analyzer-01/src/main/java/com/axur/analyzer/config/AxurAnalyzerConfig.java
-/Users/rsfmachado/Development/Axur/workspace/axur-analyzer-01/src/main/java/com/axur/analyzer/amqp/AxurAnalyzerListener.java
-/Users/rsfmachado/Development/Axur/workspace/axur-analyzer-01/src/main/java/com/axur/analyzer/amqp/AxurAnalyzerPublisher.java
-/Users/rsfmachado/Development/Axur/workspace/axur-analyzer-01/src/main/java/com/axur/analyzer/AxurAnalyzerApplication.java
-/Users/rsfmachado/Development/Axur/workspace/axur-analyzer-01/src/main/java/com/axur/analyzer/model/AxurAnalyzerValidationMessage.java
-/Users/rsfmachado/Development/Axur/workspace/axur-analyzer-01/src/main/java/com/axur/analyzer/controller/AxurAnalyzerController.java
